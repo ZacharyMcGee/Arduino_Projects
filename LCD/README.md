@@ -1,4 +1,3 @@
 ## LCD Project 1 - Rolling Number Message
 
-
-![Alt Text](https://i.imgur.com/2UYtiYm.gif)
+<img src="/images/GMrSGy8 - Imgur.gif" width="200px">
