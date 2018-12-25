@@ -6,4 +6,4 @@
 
 ## Preview
 
-<img src="/LCD/images/GMrSGy8%20-%20Imgur.gif?raw=true" width="200px">
+<img src="/LCD/images/GMrSGy8%20-%20Imgur.gif?raw=true" width="600px">
