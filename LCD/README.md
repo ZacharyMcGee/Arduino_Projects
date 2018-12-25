@@ -1,4 +1,4 @@
-#LCD Project 1 - Rolling Number Message
+## LCD Project 1 - Rolling Number Message
 
-![Example](https://i.imgur.com/GMrSGy8.gif)
+![Example](https://i.imgur.com/GMrSGy8.gifv)
 
