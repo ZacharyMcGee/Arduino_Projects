@@ -49,8 +49,6 @@ void setup() {
 
   lcd.begin(16, 2);  
   writeMessage(0, 0, strings[4]);
-  int arr[8] = {2, 1, 3, 7, 5, 2, 3, 7};
-  int n = sizeof(arr)/sizeof(arr[0]);  
 }
 
 void swap(int *i, int *j) 
